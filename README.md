@@ -19,9 +19,9 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 
 ## Fonctionnalités
 
-- Bouton + pour augmenter
-- Bouton - pour diminuer
-- Bouton reset
+- Bouton + pour augmenter le compteur
+- Bouton - pour diminuer le compteur
+- Bouton reset pour remettre à zéro
 
 ## Auteur
 
